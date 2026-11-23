@@ -1,2 +1,1 @@
-# excavaciones-oil-gas
-CURSO DE EXCAVACIONES
+# Curso Excavaciones Oil & Gas
